@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👨‍💻 ¡Bienvenidos a mi perfil de GitHub!
 
-<!--
-**feer248/feer248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ **¿Quién soy?**  
+Soy Fernando, un estudiante apasionado de la **ciberseguridad**. Actualmente, me enfoco en aprender y practicar técnicas de pentesting y vulnerabilidad en sistemas. Me encanta resolver retos de **CTFs** y compartir mis conocimientos con la comunidad.
 
-Here are some ideas to get you started:
+🎓 **Sobre mí**  
+Estudiante de Ciberseguridad en el campus internacional de ciberseguridad, me encanta el OSINT, pentesting, entre otras ramas, asi como resolver retos CTF y poder compartir mis conocimientos con el resto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **¿Qué encontrarás aquí?**  
+- **Writeups de CTFs**: Comparto soluciones y estrategias para resolver retos de seguridad.
+- **Proyectos personales**: Scripts y herramientas que desarrollé para ayudar en la ciberseguridad.
+- **Colaboraciones**: Siempre estoy abierto a colaborar en proyectos interesantes.
+
+📬 **Contacto**  
+Puedes contactarme a través de los siguientes canales:
+- **Correo electrónico**: fer__99cr@hotmail.com
+- **Twitter**: [@feer248](https://twitter.com/feer248)
+
